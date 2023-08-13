@@ -119,7 +119,7 @@ p{
     position: absolute;
     background-color: white;
     border-radius: 50%;
-    left: 144px;
+    left: 122px;
     top: 339.5px;
 }
 .class-7{
@@ -138,7 +138,7 @@ p{
     background-color: white;
     position: absolute;
     /* bottom: 10.6%; */
-    left:158.7px;
+    left:134.7px;
     transform: rotate(60deg);
     top: 66.9vh;
 
@@ -151,7 +151,7 @@ p{
     /* bottom: 10.6%; */
     left:96.7px;
     transform: rotate(-60deg);
-    top: 67.9vh;
+    top: 66.9vh;
 
 }
 .class-6{
