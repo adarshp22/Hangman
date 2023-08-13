@@ -89,16 +89,16 @@ p{
     background-color: white;
     position: absolute;
     /* bottom: 10.6%; */
-    left: -268.3px;
+    left: -226.3px;
     transform: rotate(90deg);
-    top: 55.9vh;
+    top: 58.9vh;
 }
 .class-3{
     height: 5px;
     width: 30%;
     background-color: white;
     position: absolute;
-    top: 22.5%;
+    top: 28.5%;
 
 }
 .class-4{
@@ -110,8 +110,8 @@ p{
     
     transform: rotate(90deg);
    
-    top: 31.9vh;
-    left: 106px;
+    top: 36.9vh;
+    left: 90px;
 }
 .class-5{
     height: 70px;
@@ -128,7 +128,7 @@ p{
     background-color: white;
     position: absolute;
     /* bottom: 10.6%; */
-    left: 120.7px;
+    left: 103px;
     transform: rotate(90deg);
     top: 55.9vh;
 }
@@ -140,7 +140,7 @@ p{
     /* bottom: 10.6%; */
     left:158.7px;
     transform: rotate(60deg);
-    top: 67.9vh;
+    top: 66.9vh;
 
 }
 .class-9{
@@ -149,7 +149,7 @@ p{
     background-color: white;
     position: absolute;
     /* bottom: 10.6%; */
-    left:111.7px;
+    left:96.7px;
     transform: rotate(-60deg);
     top: 67.9vh;
 
@@ -161,9 +161,9 @@ p{
     background-color: white;
     position: absolute;
     /* bottom: 10.6%; */
-    left:111.7px;
+    left:93.7px;
     transform: rotate(55deg);
-    top: 53.9vh;
+    top: 55.9vh;
 
 }
 .class-10{
