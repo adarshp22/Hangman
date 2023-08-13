@@ -1,0 +1,183 @@
+html{
+    background-color:  rgba(86, 163, 196, 0.638);;
+}
+#indicator{
+    font-size: 33px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgb(26, 7, 24);
+}
+#root{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    /* position: relative; */
+}
+.hangstand{
+    width: 50%;
+    position: relative;
+}
+buttons{
+  height: 70vh;
+    display: grid;
+    width: 30vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+button{
+
+    border: 1px solid black;
+    color: white;
+    font-size: 20px;
+    border-radius: 3px solid red;
+    background-color: rgb(188, 77, 66);
+    margin: 5px 5px;
+    padding: 6px 7px;
+    width: 50px;
+    height: 50px;
+
+}
+button:hover{
+    background-color: rgb(94, 24, 17);
+    cursor: pointer;
+  
+}
+body{
+    overflow-x: hidden;
+}
+span{
+    display: none;;
+}
+
+p{
+    color: black;
+   
+    height: fit-content;
+    width: fit-content;
+    margin: 10px;
+    border-bottom: 4px solid black;
+    width: 20px;
+    padding-top: 100px;
+    height: 50px;
+    /* margin-top: 70px; */
+}
+
+.blanks_parents{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.greenBtn{
+    background-color: green;
+    color: black;
+
+}
+.redBtn{
+    background-color: red;
+    color: black;
+}
+.class-1{
+    height: 5px;
+    width: 60%;
+    background-color: white;
+    position: absolute;
+    bottom: 10%;
+}
+.class-2{
+    height: 5px;
+    width: 90%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left: -268.3px;
+    transform: rotate(90deg);
+    top: 55.9vh;
+}
+.class-3{
+    height: 5px;
+    width: 30%;
+    background-color: white;
+    position: absolute;
+    top: 22.5%;
+
+}
+.class-4{
+    height: 2.5px;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    
+    transform: rotate(90deg);
+   
+    top: 31.9vh;
+    left: 106px;
+}
+.class-5{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    left: 144px;
+    top: 339.5px;
+}
+.class-7{
+    height: 5px;
+    width: 20%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left: 120.7px;
+    transform: rotate(90deg);
+    top: 55.9vh;
+}
+.class-8{
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left:158.7px;
+    transform: rotate(60deg);
+    top: 67.9vh;
+
+}
+.class-9{
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left:111.7px;
+    transform: rotate(-60deg);
+    top: 67.9vh;
+
+}
+.class-6{
+    
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left:111.7px;
+    transform: rotate(55deg);
+    top: 53.9vh;
+
+}
+.class-10{
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    position: absolute;
+    /* bottom: 10.6%; */
+    left:158.7px;
+    transform: rotate(-55deg);
+    top: 53.9vh;
+
+}
+.display-none{
+    display: none;
+    
+}
